@@ -174,7 +174,7 @@
   Super NES and Super Nintendo Entertainment System are trademarks of
   Nintendo Co., Limited and its subsidiary companies.
  ***********************************************************************************/
-
+#include <stdint.h>
 #include <math.h>
 #include "snes9x.h"
 #include "apu.h"

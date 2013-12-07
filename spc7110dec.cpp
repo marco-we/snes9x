@@ -15,6 +15,7 @@
  * or in connection with the use or performance of this software.
  *****/
 
+#include <stdint.h>
 
 #ifdef _SPC7110EMU_CPP_
 
